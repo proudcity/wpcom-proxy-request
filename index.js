@@ -18,7 +18,8 @@ module.exports = request;
  * WordPress.com REST API base endpoint.
  */
 
-var proxyOrigin = 'https://public-api.wordpress.com';
+//var proxyOrigin = 'https://public-api.wordpress.com';
+var proxyOrigin = 'http://dev.proudcity.com:4000';
 
 /**
  * "Origin" of the current HTML page.
